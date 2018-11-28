@@ -1,0 +1,2 @@
+# NetCoreArchetype
+Arquetipo NetCore
