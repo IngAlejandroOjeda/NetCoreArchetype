@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.Domain.Interfaces/Axity.Project.Domain.Interfaces.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

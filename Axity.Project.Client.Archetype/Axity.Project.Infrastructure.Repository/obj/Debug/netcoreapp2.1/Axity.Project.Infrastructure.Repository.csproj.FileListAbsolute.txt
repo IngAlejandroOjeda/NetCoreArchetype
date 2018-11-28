@@ -1,0 +1,32 @@
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.deps.json
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/obj/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/obj/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.AssemblyInfoInputs.cache
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/obj/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.AssemblyInfo.cs
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/obj/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/obj/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.Domain.Interfaces.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.Domain.Interfaces.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/obj/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.csprojAssemblyReference.cache
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/obj/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.csproj.CopyComplete
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.Domain.Entities.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.Domain.Entities.pdb
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/obj/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.dll
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/obj/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.pdb
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.deps.json
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.dll
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.pdb
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.Domain.Entities.dll
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.Domain.Interfaces.dll
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.dll
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.Domain.Interfaces.pdb
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.pdb
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/bin/Debug/netcoreapp2.1/Axity.Project.Domain.Entities.pdb
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/obj/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.csprojAssemblyReference.cache
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/obj/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/obj/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.AssemblyInfoInputs.cache
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/obj/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.AssemblyInfo.cs
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.Infrastructure.Repository/obj/Debug/netcoreapp2.1/Axity.Project.Infrastructure.Repository.csproj.CopyComplete

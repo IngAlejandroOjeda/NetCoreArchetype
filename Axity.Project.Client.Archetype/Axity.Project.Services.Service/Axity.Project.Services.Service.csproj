@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Axity.Project.Domain.Interfaces\Axity.Project.Domain.Interfaces.csproj" />
+    <ProjectReference Include="..\Axity.Project.infrastructure.Persistence\Axity.Project.infrastructure.Persistence.csproj" />
+    <ProjectReference Include="..\Axity.Project.Infrastructure.Repository\Axity.Project.Infrastructure.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

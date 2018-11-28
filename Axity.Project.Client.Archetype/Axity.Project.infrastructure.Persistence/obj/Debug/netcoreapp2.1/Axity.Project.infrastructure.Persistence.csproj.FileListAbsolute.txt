@@ -1,0 +1,32 @@
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.deps.json
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/obj/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.csprojAssemblyReference.cache
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/obj/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/obj/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.AssemblyInfoInputs.cache
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/obj/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.AssemblyInfo.cs
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/obj/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/obj/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.Domain.Interfaces.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.Domain.Interfaces.pdb
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/obj/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.csproj.CopyComplete
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.runtimeconfig.json
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.runtimeconfig.dev.json
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.Domain.Entities.dll
+C:/Users/aojeda/Documents/Visual Studio 2017/Projects/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.Domain.Entities.pdb
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/obj/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.dll
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/obj/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.pdb
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.deps.json
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.runtimeconfig.json
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.runtimeconfig.dev.json
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.dll
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.pdb
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.Domain.Entities.dll
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.Domain.Interfaces.dll
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.Domain.Interfaces.pdb
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/bin/Debug/netcoreapp2.1/Axity.Project.Domain.Entities.pdb
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/obj/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.csprojAssemblyReference.cache
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/obj/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.csproj.CoreCompileInputs.cache
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/obj/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.AssemblyInfoInputs.cache
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/obj/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.AssemblyInfo.cs
+/Users/alex/Downloads/Axity.Project.Client.Archetype/Axity.Project.infrastructure.Persistence/obj/Debug/netcoreapp2.1/Axity.Project.infrastructure.Persistence.csproj.CopyComplete
